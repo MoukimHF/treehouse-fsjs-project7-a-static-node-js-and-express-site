@@ -1,0 +1,23 @@
+{
+  "name": "treehouse-fsjs-project7-a-static-node-js-and-express-site",
+  "version": "0.0.1",
+  "description": "A Static Node.js and Express Site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nvwebd/treehouse-fsjs-project7-a-static-node-js-and-express-site.git"
+  },
+  "author": "Nejc Vukovic - nvwebd.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nvwebd/treehouse-fsjs-project7-a-static-node-js-and-express-site/issues"
+  },
+  "homepage": "https://github.com/nvwebd/treehouse-fsjs-project7-a-static-node-js-and-express-site#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "pug": "^2.0.3"
+  }
+}
