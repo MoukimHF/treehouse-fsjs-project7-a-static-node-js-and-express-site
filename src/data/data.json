@@ -52,7 +52,7 @@
       "technologies": ["JavaScript", "Node"],
       "live_link": "",
       "github_link": "https://github.com/nvwebd/treehouse-fsjs-project6-build-a-content-scraper",
-      "image_urls": ["", ""]
+      "image_urls": ["/static/images/proj6_1.png", "/static/images/proj6_2.png", "/static/images/proj6_3.png"]
     }
   ]
 }
