@@ -1,0 +1,58 @@
+{
+  "projects": [
+    {
+      "id": 0,
+      "project_name": "Random Quote Generator",
+      "description": "Practice your knowledge of basic JavaScript syntax and data structures by building a Random Quote Generator, a program that displays a randomly selected quote each time the user clicks a button.",
+      "technologies": ["HTML5", "CSS3", "JavaScript"],
+      "live_link": "https://nvwebd.github.io/treehouse-fsjs-project1-random-quote-generator/",
+      "github_link": "https://github.com/nvwebd/treehouse-fsjs-project1-random-quote-generator",
+      "image_urls": ["/static/images/proj1_1.png", "/static/images/proj1_2.png", "/static/images/proj1_3.png"]
+    },
+    {
+      "id": 1,
+      "project_name": "Pagination & Content Filter",
+      "description": "Long lists don't make for a good user experience on a web page. In this project, we'll enhance the usability of a web page that contains a long list by employing JavaScript to dynamically divide the list into \"pages\". As a bonus challenge, we'll add a search feature to display only the students that match the search criteria.",
+      "technologies": ["HTML5", "CSS3", "JavaScript"],
+      "live_link": "https://nvwebd.github.io/treehouse-fsjs-project2-pagination-filter",
+      "github_link": "https://github.com/nvwebd/treehouse-fsjs-project2-pagination-filter",
+      "image_urls": ["/static/images/proj2_1.png", "/static/images/proj2_2.png"]
+    },
+    {
+      "id": 2,
+      "project_name": "Build an Interactive Form",
+      "description": "Full Stack JavaScript developers create forms to collect information from users for nearly every website and application they build. For this project, you’ll use your skills to enhance a form so that it’s engaging, interactive, and easy to use.",
+      "technologies": ["HTML5", "CSS3", "JavaScript"],
+      "live_link": "https://nvwebd.github.io/treehouse-fsjs-project3-interactive-form/",
+      "github_link": "https://github.com/nvwebd/treehouse-fsjs-project3-interactive-form",
+      "image_urls": ["/static/images/proj3_1.png", "/static/images/proj3_2.png", "/static/images/proj3_3.png"]
+    },
+    {
+      "id": 3,
+      "project_name": "Tic-Tac-Toe",
+      "description": "Build a fun two-person Tic-Tac-Toe game. Use professional programming techniques to solve data-modeling problems, write elegant JavaScript code, and apply higher level concepts like object-oriented programming.",
+      "technologies": ["HTML5", "CSS3", "JavaScript"],
+      "live_link": "https://nvwebd.github.io/treehouse-fsjs-project4-tictactoe/",
+      "github_link": "https://github.com/nvwebd/treehouse-fsjs-project4-tictactoe",
+      "image_urls": ["/static/images/proj4_1.png", "/static/images/proj4_2.png", "/static/images/proj4_3.png", "/static/images/proj4_4.png", "/static/images/proj4_5.png"]
+    },
+    {
+      "id": 4,
+      "project_name": "Use a Public API to Create an Employee Directory ",
+      "description": "Many sites — Twitter, Facebook, IMDB, and Wikipedia to name a few — offer a vast sea of data that you can access and display on your own web pages. Using JavaScript, you’ll create an employee directory by communicating with a third-party API (Application Programming Interface).",
+      "technologies": ["HTML5", "CSS3", "JavaScript"],
+      "live_link": "https://nvwebd.github.io/treehouse-fsjs-project5-employee-directory/",
+      "github_link": "https://github.com/nvwebd/treehouse-fsjs-project5-employee-directory/",
+      "image_urls": ["/static/images/proj5_1.png", "/static/images/proj5_2.png"]
+    },
+    {
+      "id": 5,
+      "project_name": "Build a Content Scraper",
+      "description": "Build a data-mining application using Node.js. JavaScript isn't just for browsers — it can be used on web servers and even your own computer. Create a command-line application to read a web page, extract information, and store the data in a text file.",
+      "technologies": ["JavaScript", "Node"],
+      "live_link": "",
+      "github_link": "https://github.com/nvwebd/treehouse-fsjs-project6-build-a-content-scraper",
+      "image_urls": ["", ""]
+    }
+  ]
+}
