@@ -13,8 +13,17 @@ router.get("/about", (req, res) => {
 });
 
 // route to display one of the selected projects
-router.get("/projects/:projectId", (req, res) => {
-  res.render("project", { project: data[parseInt(req.params.projectId)] });
+router.get("/projects/:projectId", (req, res, next) => {
+  const projectId = parseInt(req.params.projectId);
+  const projectLength = data.length;
+
+  if (projectId > projectLength) {
+    const err = new Error(`Project Nr.: ${projectId} - Not Found`);
+    err.status = 404;
+    next(err);
+  } else {
+    res.render("project", { project: data[projectId] });
+  }
 });
 
 module.exports = router;
